@@ -4,8 +4,8 @@
 ## Stats
 SweetChallenges has
 <p>
-12 Reverse Engineering challenges<br>
-2 Programming challenges<br>
+13 Reverse Engineering challenges<br>
+4 Programming challenges<br>
 </p>
 
 ## You might ask
