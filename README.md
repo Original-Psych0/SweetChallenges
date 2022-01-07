@@ -1,5 +1,6 @@
-<h1  align="center">Welcome to SweetChallenges</h1>
-<h3  align="center">SweetChallenges is made to exist by Psych0 to help people develop their Reverse Engineering, Programming or in summarizing skills.</h3>
+<h1 align="center">Welcome to SweetChallenges</h1>
+<h3 align="center">SweetChallenges is made to exist by Psych0 to help people develop their Reverse Engineering, Programming or in summarizing skills.</h3>
+<h3 align="center">This is no longer maintained.</h3>
 
 ## Stats
 SweetChallenges has
